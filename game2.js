@@ -1,5 +1,3 @@
-alert("Hey there! Thanks for checking this code out. Turn on sounds for a better experience. If there's any errors, please let me know!");
-alert("Woooooow people! Thanks for freaking 3.3K thumbs up!")
 
 
 /* Highest ranks:
